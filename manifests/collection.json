@@ -1,0 +1,13 @@
+{
+  "id" : "https://NotDMIT.github.io/Workbench/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in NotDMIT/Workbench project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://NotDMIT.github.io/Workbench/manifests/manifest.json",
+    "label" : "Ad Iusta Funebria Serenissimo Ac Potentissimo Principi Et Domino Domino Friderico Augusto Poloniarum Regi"
+  } ]
+}
