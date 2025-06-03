@@ -25,5 +25,9 @@
       "en" : [ "Blank Manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://NotDMIT.github.io/Workbench/manifests/06.json",
+    "label" : null,
+    "type" : "ImageService3"
   } ]
 }
