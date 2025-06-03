@@ -1,0 +1,139 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://NotDMIT.github.io/Workbench/manifests/01_manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/4pwh8jimqpi-mbggz3rg/canvas/8ylp63muyq6-mbgh1mvm",
+    "type" : "Canvas",
+    "height" : 960,
+    "width" : 1440,
+    "label" : {
+      "en" : [ "01_canvas" ]
+    },
+    "summary" : {
+      "en" : [ "Tile No. 1 from www.historicnewengland.org" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://images.historicnewengland.org/iiif/3/30673/full/360,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 240,
+      "width" : 360
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/4pwh8jimqpi-mbggz3rg/canvas/8ylp63muyq6-mbgh1mvm/annotation-page/z06k8t2fae-mbgh1mvm",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/4pwh8jimqpi-mbggz3rg/annotation/gwzzwm49uih-mbgh1mvl",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/4pwh8jimqpi-mbggz3rg/canvas/8ylp63muyq6-mbgh1mvm",
+        "body" : {
+          "id" : "https://images.historicnewengland.org/iiif/3/30673/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 960,
+          "width" : 1440,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "id" : "https://images.historicnewengland.org/iiif/3/30673",
+            "type" : "ImageService3",
+            "protocol" : "http://iiif.io/api/image",
+            "profile" : "level2",
+            "width" : 1440,
+            "height" : 960,
+            "sizes" : [ {
+              "width" : 1440,
+              "height" : 960
+            }, {
+              "width" : 720,
+              "height" : 480
+            }, {
+              "width" : 360,
+              "height" : 240
+            }, {
+              "width" : 180,
+              "height" : 120
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8 ]
+            } ],
+            "extraFormats" : [ "jpeg", "tif", "tiff", "webp" ],
+            "extraQualities" : [ "color", "gray", "bitonal" ],
+            "extraFeatures" : [ "canonicalLinkHeader", "mirroring", "profileLinkHeader", "rotationArbitrary", "sizeByDistortedWh", "sizeByForcedWh", "sizeByWhListed", "sizeUpscaling" ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/4pwh8jimqpi-mbggz3rg/canvas/0hzs6q8g5qa-mbghavcq",
+    "type" : "Canvas",
+    "height" : 960,
+    "width" : 1440,
+    "label" : {
+      "en" : [ "02_canvas" ]
+    },
+    "summary" : {
+      "en" : [ "Tile No. 1 from www.historicnewengland.org" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://images.historicnewengland.org/iiif/3/30674/full/360,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 240,
+      "width" : 360
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/4pwh8jimqpi-mbggz3rg/canvas/0hzs6q8g5qa-mbghavcq/annotation-page/wwlmqgmauef-mbghavcq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/4pwh8jimqpi-mbggz3rg/annotation/z5pzprldi1a-mbghavcp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/4pwh8jimqpi-mbggz3rg/canvas/0hzs6q8g5qa-mbghavcq",
+        "body" : {
+          "id" : "https://images.historicnewengland.org/iiif/3/30674/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 960,
+          "width" : 1440,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "id" : "https://images.historicnewengland.org/iiif/3/30674",
+            "type" : "ImageService3",
+            "protocol" : "http://iiif.io/api/image",
+            "profile" : "level2",
+            "width" : 1440,
+            "height" : 960,
+            "sizes" : [ {
+              "width" : 1440,
+              "height" : 960
+            }, {
+              "width" : 720,
+              "height" : 480
+            }, {
+              "width" : 360,
+              "height" : 240
+            }, {
+              "width" : 180,
+              "height" : 120
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8 ]
+            } ],
+            "extraFormats" : [ "jpeg", "tif", "tiff", "webp" ],
+            "extraQualities" : [ "color", "gray", "bitonal" ],
+            "extraFeatures" : [ "canonicalLinkHeader", "mirroring", "profileLinkHeader", "rotationArbitrary", "sizeByDistortedWh", "sizeByForcedWh", "sizeByWhListed", "sizeUpscaling" ]
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
