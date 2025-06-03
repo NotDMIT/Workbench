@@ -33,5 +33,9 @@
     "id" : "https://NotDMIT.github.io/Workbench/manifests/07.json",
     "label" : null,
     "type" : "ImageService3"
+  }, {
+    "id" : "https://NotDMIT.github.io/Workbench/manifests/08.json",
+    "label" : null,
+    "type" : "ImageService3"
   } ]
 }
