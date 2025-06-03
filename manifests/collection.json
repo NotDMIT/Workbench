@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://NotDMIT.github.io/Workbench/manifests/manifest.json",
     "label" : "Ad Iusta Funebria Serenissimo Ac Potentissimo Principi Et Domino Domino Friderico Augusto Poloniarum Regi"
+  }, {
+    "@type" : null,
+    "@id" : "https://NotDMIT.github.io/Workbench/manifests/02.json",
+    "label" : null
   } ]
 }
