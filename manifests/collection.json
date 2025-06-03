@@ -13,5 +13,11 @@
     "@type" : null,
     "@id" : "https://NotDMIT.github.io/Workbench/manifests/02.json",
     "label" : null
+  }, {
+    "id" : "https://NotDMIT.github.io/Workbench/manifests/02_manifest.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
   } ]
 }
