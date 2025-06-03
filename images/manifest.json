@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://NotDMIT.github.io/Workbench/images/08/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "08"
+                ]
+            },
+            "height": 1322,
+            "width": 1320,
+            "items": [
+                {
+                    "id": "https://NotDMIT.github.io/Workbench/images/08/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://NotDMIT.github.io/Workbench/images/08/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://NotDMIT.github.io/Workbench/images/08/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 42,
+                                                "height": 42
+                                            },
+                                            {
+                                                "width": 83,
+                                                "height": 83
+                                            },
+                                            {
+                                                "width": 165,
+                                                "height": 166
+                                            },
+                                            {
+                                                "width": 330,
+                                                "height": 331
+                                            },
+                                            {
+                                                "width": 660,
+                                                "height": 661
+                                            },
+                                            {
+                                                "width": 1320,
+                                                "height": 1322
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1320,
+                                        "id": "https://NotDMIT.github.io/Workbench/images/08",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1322
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://NotDMIT.github.io/Workbench/images/08/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://NotDMIT.github.io/Workbench/images/03/canvas/",
             "type": "Canvas",
             "label": {
@@ -165,6 +246,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://NotDMIT.github.io/Workbench/images/06/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://NotDMIT.github.io/Workbench/images/07/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "07"
+                ]
+            },
+            "height": 708,
+            "width": 656,
+            "items": [
+                {
+                    "id": "https://NotDMIT.github.io/Workbench/images/07/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://NotDMIT.github.io/Workbench/images/07/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://NotDMIT.github.io/Workbench/images/07/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 21,
+                                                "height": 23
+                                            },
+                                            {
+                                                "width": 41,
+                                                "height": 45
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 89
+                                            },
+                                            {
+                                                "width": 164,
+                                                "height": 177
+                                            },
+                                            {
+                                                "width": 328,
+                                                "height": 354
+                                            },
+                                            {
+                                                "width": 656,
+                                                "height": 708
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 656,
+                                        "id": "https://NotDMIT.github.io/Workbench/images/07",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 708
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://NotDMIT.github.io/Workbench/images/07/canvas/"
                         }
                     ]
                 }
