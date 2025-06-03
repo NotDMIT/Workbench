@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 35,
+    "height" : 35
+  }, {
+    "width" : 70,
+    "height" : 69
+  }, {
+    "width" : 139,
+    "height" : 137
+  }, {
+    "width" : 278,
+    "height" : 273
+  }, {
+    "width" : 555,
+    "height" : 545
+  }, {
+    "width" : 1110,
+    "height" : 1090
+  } ],
+  "profile" : "level0",
+  "width" : 1110,
+  "id" : "https://NotDMIT.github.io/Workbench/manifests/06.json",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1090
+}
